@@ -1,9 +1,9 @@
 # Team 10
-###### Date: 2/29/2020 | Project title: Fake B*tch
-Private Repo for the class project titled Fake B*tch.
+###### Date: 2/29/2020 | Project title: System Integration Project
+Public Repo for the class project.
 
-## Project Fake B*tch
-Fake B*tch is an application that helps content creators on the social media platform Instagram monitor uncredited reposting of their images.
+## System Integration Project
+Working title "Fake Btch" is an application that helps content creators on the social media platform Instagram monitor uncredited reposting of their images.
 
 #### Team Members
 - Abigail Boyer - aboyer1@hawk.iit.edu
