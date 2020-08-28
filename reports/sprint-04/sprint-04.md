@@ -51,12 +51,12 @@ Fake B*tch is an application that helps content creators on the social media pla
 #### Project Manager Goals
 |     | Goal | Trello | Github Artifact |
 | --- | ---- | ------ | --------------- |
-| <ul><li>- [ ] </li></ul> | 1.1 Create Sprint report 04 template | [1.1 Create Sprint-04 Template](https://trello.com/c/NGRJiyKA/70-create-sprint-04-report) | [sprint-04.md](https://github.com/illinoistech-itm/2020-team10f/blob/master/reports/sprint-04/sprint-04.md) |
-| <ul><li>- [ ] </li></ul> | 1.2 Write sprint report 04 | [1.2 Write sprint report 04](https://trello.com/c/1OmVk1Hp/71-write-sprint-04-report) | [sprint-04.md](https://github.com/illinoistech-itm/2020-team10f/blob/master/reports/sprint-04/sprint-04.md) |
-| <ul><li>- [ ] </li></ul> | 1.3 Update atomic goals for sprint 04 | [1.3 Update atomic goals for sprint 4](https://trello.com/c/0YMQVYRA/75-update-atomic-goals-for-sprint-04) | [sprint-04.md](https://github.com/illinoistech-itm/2020-team10f/blob/master/reports/sprint-04/sprint-04.md) |
-| <ul><li>- [ ] </li></ul> | 1.4 Create atomic goals for sprint 05 | [1.4 Create atomic goals for sprint 05](https://trello.com/c/kSDGamAO/73-create-atomic-goals-for-sprint-05) | [sprint-04.md](https://github.com/illinoistech-itm/2020-team10f/blob/master/reports/sprint-04/sprint-04.md) |
+| <ul><li>- [ ] </li></ul> | 1.1 Create Sprint report 04 template | [1.1 Create Sprint-04 Template](https://trello.com/c/NGRJiyKA/70-create-sprint-04-report) | [sprint-04.md](https://github.com/JakerHuber/system-integration-project/blob/master/reports/sprint-04/sprint-04.md) |
+| <ul><li>- [ ] </li></ul> | 1.2 Write sprint report 04 | [1.2 Write sprint report 04](https://trello.com/c/1OmVk1Hp/71-write-sprint-04-report) | [sprint-04.md](https://github.com/JakerHuber/system-integration-project/blob/master/reports/sprint-04/sprint-04.md) |
+| <ul><li>- [ ] </li></ul> | 1.3 Update atomic goals for sprint 04 | [1.3 Update atomic goals for sprint 4](https://trello.com/c/0YMQVYRA/75-update-atomic-goals-for-sprint-04) | [sprint-04.md](https://github.com/JakerHuber/system-integration-project/blob/master/reports/sprint-04/sprint-04.md) |
+| <ul><li>- [ ] </li></ul> | 1.4 Create atomic goals for sprint 05 | [1.4 Create atomic goals for sprint 05](https://trello.com/c/kSDGamAO/73-create-atomic-goals-for-sprint-05) | [sprint-04.md](https://github.com/JakerHuber/system-integration-project/blob/master/reports/sprint-04/sprint-04.md) |
 | <ul><li>- [ ] </li></ul> | 1.5 Update Trello | [1.5 Update Trello](https://trello.com/b/dhHQU1H7/fakebtch) | [Trello Board](https://trello.com/b/dhHQU1H7/fakebtch) |
-| <ul><li>- [ ] </li></ul> | 1.6 Update Install.md | [1.5 Update Installd.md](https://trello.com/b/dhHQU1H7/fakebtch) | [installd.md](https://github.com/illinoistech-itm/2020-team10f/blob/master/install.md) |
+| <ul><li>- [ ] </li></ul> | 1.6 Update Install.md | [1.5 Update Installd.md](https://trello.com/b/dhHQU1H7/fakebtch) | [installd.md](https://github.com/JakerHuber/system-integration-project/blob/master/install.md) |
 | <ul><li>- [ ] </li></ul> | 1.7 Submit sprint-04 on Blackboard | [1.7 Submit to Blackboard](https://trello.com/c/hhxi4t7Q/76-submit-report-04-to-blackboard) | n/a |
 
 ##### 1.1 Create Sprint report-04 template
@@ -223,7 +223,7 @@ In this sprint I was responsible for testing what we have implemented so far and
 
 I tested the vagrant/packer build with no issues. 
 
-![Vagrant Test](https://github.com/illinoistech-itm/2020-team10f/blob/master/images/vagranttest.PNG?raw=true)
+![Vagrant Test](https://github.com/JakerHuber/system-integration-project/blob/master/images/vagranttest.PNG?raw=true)
 
 ##### 5.2 Test Login Fucntionality/Test UI
 
@@ -246,7 +246,7 @@ deactivate
 
 The only thing left to do to get a webpage running is to set up URL paths in our django-generated .py files to any associated views.
 
-![virtualenv](https://github.com/illinoistech-itm/2020-team10f/blob/master/images/virtualenv.PNG?raw=true)
+![virtualenv](https://github.com/JakerHuber/system-integration-project/blob/master/images/virtualenv.PNG?raw=true)
 
 
 ##### 5.4 List bugs/issues found

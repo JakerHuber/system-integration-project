@@ -16,14 +16,14 @@ Fake B*tch is an application that helps content creators on the social media pla
 
 #### Links
 
-- [Github repository](https://github.com/illinoistech-itm/2020-team10f)
+- [Github repository](https://github.com/JakerHuber/system-integration-project)
 - [Slack workspace](https://app.slack.com/client/TSFTHEN11/CSEJ6PRU2)
 - [Trello kanban board](https://trello.com/b/dhHQU1H7/fakebtch)
 
 #### Reports
-- [Sprint report 01](https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-01/sprint-01.md)
-- [Sprint report 02](https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-02/sprint-02.md)
-- [Sprint report 03](https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-03/sprint-03.md)
+- [Sprint report 01](https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-01/sprint-01.md)
+- [Sprint report 02](https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-02/sprint-02.md)
+- [Sprint report 03](https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-03/sprint-03.md)
 - [Sprint report 04]()
 
 ## Team Members Roles

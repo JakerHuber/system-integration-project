@@ -63,43 +63,43 @@ In sprint 2, i was responsible for managing the project, delegating tasks & role
 			<td>:heavy_check_mark:</td>
 			<td>1.1. Create sprint report 02 template</td>
 			<td><a href="https://trello.com/c/33XSFY7K"><code>1.1. Create sprint report 02 template</code></a></td> 
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-02"><code>sprint-02.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-02"><code>sprint-02.md</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>1.2. Write sprint report 02</td>
             <td><a href="https://trello.com/c/SOrvjXRx"><code>1.2. Write sprint report 02</code></a></td> 
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-02"><code>sprint-02.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-02"><code>sprint-02.md</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>1.3. Update atomic goals for sprint 02</td>
 			<td><a href="https://trello.com/c/qomnKJ16"><code>1.3. Update atomic goals for sprint 02</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-02"><code>sprint-02.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-02"><code>sprint-02.md</code></a></td>
 		</tr>
 		<tr>
 			<td style="font-size: 9px;">:heavy_check_mark:</td>
 			<td>1.4. Create atomic goals for sprint 03</td>
 			<td><a href="https://trello.com/c/4iQMKkc1"><code>1.4. Create atomic goals for sprint 03</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-02"><code>sprint-02.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-02"><code>sprint-02.md</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>1.5. Create Trello</td>
 			<td><a href="https://trello.com/c/E4TtmMzA"><code>1.5. Create Trello</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/readme.md"><code>readme.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/readme.md"><code>readme.md</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>1.6. Create install.md instructions</td>
 			<td><a href="https://trello.com/c/E4TtmMzA"><code>1.6. Create install.md instructions</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/install.md"><code>install.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/install.md"><code>install.md</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
             <td>1.7. Submit sprint-02.md to blackboard</td>
 			<td><a href="https://trello.com/c/E4TtmMzA"><code>1.7. Submit sprint-02.md to blackboard</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-02"><code>sprint-02.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-02"><code>sprint-02.md</code></a></td>
 		</tr>
 	</tbody>
 </table>
@@ -250,19 +250,19 @@ This sprint I was responsible for the getting the base of the project ready for 
 			<td>:heavy_check_mark:</td>
 			<td>3.3. Describe the code that's been finished so far </td>
 			<td><a href="https://trello.com/c/Rw4cm7aJ"><code>3.3. Describe the code that's been finished</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/code/comp.py"><code>comp.py</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/code/comp.py"><code>comp.py</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>3.4. Create django project files in github (just create and leave blank)</td>
 			<td><a href="https://trello.com/c/mOP1GPZy"><code>3.4. Create django project files in github</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/tree/master/code/fakebtchapp"><code>Django-project Folder</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/tree/master/code/fakebtchapp"><code>Django-project Folder</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>3.5. Create basic UML diagram (just names of classes and files)</td>
 			<td><a href="https://trello.com/c/atL2Nt8F"><code>3.5. Create basic UML diagram</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/images/codeuml.png"><code>codeuml.png</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/images/codeuml.png"><code>codeuml.png</code></a></td>
 		</tr>
 	</tbody>
 </table>
@@ -282,7 +282,7 @@ I generated the basic django project file structure and configuration files. We 
 ###### 3.5. Create basic UML diagram
 I created this diagram that explains how the code we have now works.
 
-![alt text](https://github.com/illinoistech-itm/2020-team10f/blob/master/images/codeuml.png "Code Activity UML")
+![alt text](https://github.com/JakerHuber/system-integration-project/blob/master/images/codeuml.png "Code Activity UML")
 
 
 
@@ -300,31 +300,31 @@ This sprint I created a practice virtual machine running Ubuntu 18.04 LTS on Vir
 			<td>:heavy_check_mark:</td>
 			<td>4.1. List the properties of the IT platform</td>
 			<td><a href="https://trello.com/c/qjWLZTLa"><code>4.1. List the properties of the IT platform</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/reports/sprint-02/sprint-02.md"><code>sprint-02.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/reports/sprint-02/sprint-02.md"><code>sprint-02.md</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>4.2. Create a practice VM running Ubuntu</td>
 			<td><a href="https://trello.com/c/RY5RvMa7"><code>4.2. Create VM running Ubuntu 18.04</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/reports/sprint-02/sprint-02.md"><code>sprint-02.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/reports/sprint-02/sprint-02.md"><code>sprint-02.md</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>4.3. List installation commands </td>
 			<td><a href="https://trello.com/c/fBplpmCd"><code>4.3. List installation commands</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/packer/installation_commands.md"><code>installation_commands.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/packer/installation_commands.md"><code>installation_commands.md</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>4.4. List secrets (all credentials and keys)</td>
 			<td><a href="https://trello.com/c/PAhqTaMw"><code>4.4. List secrets </code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/packer/secrets.md"><code>secrets.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/packer/secrets.md"><code>secrets.md</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>4.5. Create Readme files on github for goals 3, and 4</td>
 			<td><a href="https://trello.com/c/g8GF4NYD"><code>4.5. Create Readme files for goals 3, and 4</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/reports/sprint-02/sprint-02.md"><code>sprint-02.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/reports/sprint-02/sprint-02.md"><code>sprint-02.md</code></a></td>
 		</tr>
 	</tbody>
 </table>
@@ -379,31 +379,31 @@ This sprint I created a threat assessment table, ranked the threats from lowest 
 			<td>:heavy_check_mark:</td>
 			<td>5.1. Create Threat Assessment Table</td>
 			<td><a href="https://trello.com/c/d14klxpl"><code>5.1. Create Threat Assessment Table</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/security/readme.md"><code>readme.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/security/readme.md"><code>readme.md</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>5.2. Create Login Authentication Diagram</td>
 			<td><a href="https://trello.com/c/H3GO2d7b"><code>5.2. Create Login Authentication Diagram</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/diagrams/login_authentication.png"><code>login_authentication.png</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/diagrams/login_authentication.png"><code>login_authentication.png</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>5.3. Describe security assumptions</td>
 			<td><a href="https://trello.com/c/nZwOVIKB"><code>5.3. Describe security assumptions</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/security/readme.md"><code>readme.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/security/readme.md"><code>readme.md</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>5.4. Rank security assumptions</td>
 			<td><a href="https://trello.com/c/3xajI8hd"><code>5.4. Rank security assumptions</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/security/readme.md"><code>readme.md</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/security/readme.md"><code>readme.md</code></a></td>
 		</tr>
 		<tr>
 			<td>:heavy_check_mark:</td>
 			<td>5.5. Create risk process</td>
 			<td><a href="https://trello.com/c/J5GOSGxy"><code>5.5. Create risk process</code></a></td>
-			<td><a href="https://github.com/illinoistech-itm/2020-team10f/blob/master/diagrams/risk_process.png"><code>risk_process.png</code></a></td>
+			<td><a href="https://github.com/JakerHuber/system-integration-project/blob/master/diagrams/risk_process.png"><code>risk_process.png</code></a></td>
 		</tr>
 	</tbody>
 </table>

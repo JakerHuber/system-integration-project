@@ -50,12 +50,12 @@ Fake B*tch is an application that helps content creators on the social media pla
 #### Project Manager Goals
 |     | Goal | Trello | Github Artifact |
 | --- | ---- | ------ | --------------- |
-| <ul><li>- [x] </li></ul> | 1.1 Create Sprint report 03 template | [1.1 Create Sprint-03 Template](https://trello.com/c/VKmRGxI7) | [sprint-03.md](https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-03) |
-| <ul><li>- [x] </li></ul> | 1.2 Write sprint report 3 | [1.2 Write sprint report 03](https://trello.com/c/4fzQuVPF) | [sprint-03.md](https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-03) |
-| <ul><li>- [x] </li></ul> | 1.3 Update atomic goals for sprint 03 | [1.3 Update atomic goals for sprint 3](https://trello.com/c/3TxmhtKW) | [sprint-03.md](https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-03) |
-| <ul><li>- [x] </li></ul> | 1.4 Create atomic goals for sprint 4 | [1.4 Create atomic goals for sprint 4](https://trello.com/c/03IvsEMH) | [sprint-03.md](https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-03) |
-| <ul><li>- [x] </li></ul> | 1.5 Update Trello | [1.5 Update Trello](https://trello.com/c/Kwx6Kr2l) | [sprint-03.md](https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-03) |
-| <ul><li>- [x] </li></ul> | 1.6 Update install.md for instructions to run app | [1.6 Update install.md](https://trello.com/c/zbJ5qXsB) | [sprint-03.md](https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-03) |
+| <ul><li>- [x] </li></ul> | 1.1 Create Sprint report 03 template | [1.1 Create Sprint-03 Template](https://trello.com/c/VKmRGxI7) | [sprint-03.md](https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-03) |
+| <ul><li>- [x] </li></ul> | 1.2 Write sprint report 3 | [1.2 Write sprint report 03](https://trello.com/c/4fzQuVPF) | [sprint-03.md](https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-03) |
+| <ul><li>- [x] </li></ul> | 1.3 Update atomic goals for sprint 03 | [1.3 Update atomic goals for sprint 3](https://trello.com/c/3TxmhtKW) | [sprint-03.md](https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-03) |
+| <ul><li>- [x] </li></ul> | 1.4 Create atomic goals for sprint 4 | [1.4 Create atomic goals for sprint 4](https://trello.com/c/03IvsEMH) | [sprint-03.md](https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-03) |
+| <ul><li>- [x] </li></ul> | 1.5 Update Trello | [1.5 Update Trello](https://trello.com/c/Kwx6Kr2l) | [sprint-03.md](https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-03) |
+| <ul><li>- [x] </li></ul> | 1.6 Update install.md for instructions to run app | [1.6 Update install.md](https://trello.com/c/zbJ5qXsB) | [sprint-03.md](https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-03) |
 | <ul><li>- [x] </li></ul> | 1.7 Submit sprint-03 on Blackboard | [1.7 Submit to Blackboard](https://trello.com/c/R5BgDbMe) | n/a |
 
 ##### 1.1 Create Sprint report-03 template
@@ -82,11 +82,11 @@ Submitted to blackboard for grading.
 #### UI/UX Goals
 |     | Goal | Trello | Github Artifact |
 | --- | ---- | ------ | --------------- |
-| <ul><li>- [x] </li><ul> | 2.1 Update UI/UX Wireframe | [2.1 Update UI/UX wireframe](https://trello.com/c/VEDUP2lF) | [user_story.pdf](https://github.com/illinoistech-itm/2020-team10f/blob/master/diagrams/user_story.pdf) |
-| <ul><li>- [x] </li></ul> | 2.2 Diagrams of colors, fonts, and other usability features | [2.2 Diagrams](https://trello.com/c/mLpzAmPO) | [reports_sprint3_ux_task_2a.png](https://github.com/illinoistech-itm/2020-team10f/blob/master/images/reports_sprint3_ux_task_2a.png) |
-| <ul><li>- [x] </li></ul> | 2.3 Create sketch of the logo | [2.3 Create sketch of logo](https://trello.com/c/0yRnTj23) | [logo_guidelines.pdf](https://github.com/illinoistech-itm/2020-team10f/blob/master/diagrams/logo_guidelines.pdf) |
-| <ul><li>- [x] </li></ul> | 2.4 Create Use Guidelines for your Colors and Fonts | [2.4 Create Use Guidelines](https://trello.com/c/5UYNYN1B) |  [sprint-03.md](https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-03) |
-| <ul><li>- [x] </li></ul> | 2.5 Create UI/UX assumptions list | [2.5 Create UI/UX assumptions list](https://trello.com/c/sIWwvo8L) | [sprint-03.md](https://github.com/illinoistech-itm/2020-team10f/tree/master/reports/sprint-03) |
+| <ul><li>- [x] </li><ul> | 2.1 Update UI/UX Wireframe | [2.1 Update UI/UX wireframe](https://trello.com/c/VEDUP2lF) | [user_story.pdf](https://github.com/JakerHuber/system-integration-project/blob/master/diagrams/user_story.pdf) |
+| <ul><li>- [x] </li></ul> | 2.2 Diagrams of colors, fonts, and other usability features | [2.2 Diagrams](https://trello.com/c/mLpzAmPO) | [reports_sprint3_ux_task_2a.png](https://github.com/JakerHuber/system-integration-project/blob/master/images/reports_sprint3_ux_task_2a.png) |
+| <ul><li>- [x] </li></ul> | 2.3 Create sketch of the logo | [2.3 Create sketch of logo](https://trello.com/c/0yRnTj23) | [logo_guidelines.pdf](https://github.com/JakerHuber/system-integration-project/blob/master/diagrams/logo_guidelines.pdf) |
+| <ul><li>- [x] </li></ul> | 2.4 Create Use Guidelines for your Colors and Fonts | [2.4 Create Use Guidelines](https://trello.com/c/5UYNYN1B) |  [sprint-03.md](https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-03) |
+| <ul><li>- [x] </li></ul> | 2.5 Create UI/UX assumptions list | [2.5 Create UI/UX assumptions list](https://trello.com/c/sIWwvo8L) | [sprint-03.md](https://github.com/JakerHuber/system-integration-project/tree/master/reports/sprint-03) |
 
 ##### Description of what was accomplished
 I did a lot of stuff. Here's a few things I need to double check.
