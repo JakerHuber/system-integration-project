@@ -1,0 +1,6 @@
+packer build ubuntu18044-vanilla.json     
+vagrant box add "name" --name ubuntu-vanilla  
+vagrant box list
+cd ubuntu-vanilla
+vagrant up   
+vagrant ssh

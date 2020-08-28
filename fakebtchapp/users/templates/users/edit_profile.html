@@ -1,0 +1,14 @@
+{% extends "fakebtch/base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+    <div class="content-section">
+		<h1>{{ user.username}}</h1>
+		<h2>Edit profile</h2>
+		<form method="POST">
+			{% csrf_token %}
+			{{form.as_p }}
+			<br>
+			<button class="btn btn-outline-info" type="submit">Submit</button>
+		</form>
+	</div>
+{% endblock content %}

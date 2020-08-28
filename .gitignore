@@ -1,0 +1,19 @@
+# Ignore all files with extentions:
+*.box
+*.iso
+
+# Ignores vagrant temp files
+packer/build/packer_cache/**
+.vagrant/
+
+# Ignores vagrant files
+packer/build/output-ubuntu-vanilla-18044-server/**
+
+# Ignores packer temp files
+**/__pycache__/
+**/__pycache__
+**/__pycache__/**
+
+
+
+fakebtchapp/db.sqlite3
