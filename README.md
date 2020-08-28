@@ -14,6 +14,10 @@ Working title "Fake Btch" is an application that helps content creators on the s
 
 ## Resources
 
+#### How to install
+- [Install.md](https://github.com/JakerHuber/system-integration-project/tree/master/install.md)
+- [Installation Video Guide](https://www.youtube.com/watch?v=Yz8kG21viNA&feature=youtu.be)
+
 #### Links
 
 - [Github repository](https://github.com/JakerHuber/system-integration-project)
